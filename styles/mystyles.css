@@ -1,0 +1,21 @@
+/* as far as i can tell you can't add alt text to an image being used like this one is in the background, so I added it to the body on the tableau html page*/
+.body1{background-image: url("../images/carsland.jpg");
+    ;background-color:rgb(51, 136, 193);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;}
+
+.common{background-color:rgb(103, 78, 65);
+        border: solid 5px #1280ff;
+        position:static
+}
+.header{top:10px; left:10px; right:10px; height: 80px
+}
+.body{top:110px; bottom:70px; left:10; right: 10; margin-top: 10;}
+.footer{bottom:10px; left:10px; right: 10; margin-top: 10;}
+.title{text-align: center; color:white}
+.foot{text-align: center; color:black; font-size: small;}
+.bolder{font-weight: bolder; }
+.italics{font-style: italic;}
+.goodbrown{color:rgb(104, 38, 38)}
+.link{color: white; }
+a:hover{text-transform:uppercase; color: lightblue; font-weight: bold;}
+.caption{text-align: center; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color:white;}
